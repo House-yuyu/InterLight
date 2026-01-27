@@ -1,1 +1,1 @@
-# InterLight: Leveraging Intrinsic Image Priors for Low-Light Image Enhancement
+# InterLight: Leveraging Intrinsic Image Priors for Low-Light Enhancement
