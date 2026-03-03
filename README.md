@@ -15,7 +15,7 @@ This is the official PyTorch codes for the paper:
 we propose **InterLight**, a novel framework that systematically excavates and operationalizes intrinsic illumination priors for LLIE.
 
 <p align="center">
-  <img src="assets/model.pdf" width="85%">
+  <img src="assets/model.png" width="85%">
 </p>
 
 **Key Highlights:**
