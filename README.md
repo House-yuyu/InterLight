@@ -14,9 +14,7 @@ This is the official PyTorch codes for the paper:
 ## 🧠 Overview
 we propose **InterLight**, a novel framework that systematically excavates and operationalizes intrinsic illumination priors for LLIE.
 
-<p align="center">
-  <img src="assets/model.png" width="85%">
-</p>
+![teaser_img](assets/model.png)
 
 **Key Highlights:**
 - 💡 **Intrinsic-Consistent Data Expansion:** simulates sensor-level illumination responses while preserving structural fidelity.
