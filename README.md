@@ -9,8 +9,6 @@ This is the official PyTorch codes for the paper:
  Intelligence <sup>4</sup>Guangdong University of Technology<br>
 > <sup>📧</sup> Corresponding author
 
-![teaser_img](fig/InterLight.png)
-
 ## 🧠 Overview
 we propose **InterLight**, a novel framework that systematically excavates and operationalizes intrinsic illumination priors for LLIE.
 
