@@ -1,6 +1,6 @@
 <div align="center">
 
-# :fire: InterLight: Leveraging Intrinsic Illumination Priors for Low-Light Image Enhancement (IJCAI'2026)
+# 🔦 InterLight: Leveraging Intrinsic Illumination Priors for Low-Light Image Enhancement (IJCAI'2026)
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
