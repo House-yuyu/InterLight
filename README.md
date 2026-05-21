@@ -36,6 +36,33 @@ we propose **InterLight**, a novel framework that systematically excavates and o
 - [SICE](https://pan.baidu.com/s/13ghnpTBfDli3mAzE3vnwHg?pwd=yixu) (code: `yixu`) and [One Drive](https://1drv.ms/u/s!AoPRJmiD24UphAlaTIekdMLwLZnA?e=WxrfOa) (code: `yixu`)
 - [Sony-Total-Dark(SID)](https://pan.baidu.com/s/1mpbwVscbAfQJtkrrzBzJng?pwd=yixu) (code: `yixu`) and [One Drive](https://1drv.ms/u/s!AoPRJmiD24UphAie9l0DuMN20PB7?e=Zc5DcA) (code: `yixu`)
 - [LSRW-Huawei](https://github.com/JianghaiSCU/R2RNet)
+### pretrained weights
+
+We provide pretrained weights for the main evaluation settings, including **LOLv1**, **LOLv2-Synthetic**, and **LOLv2-Real**.
+
+| Dataset | Weight |
+| --- | --- |
+| LOLv1 | Included in `save` |
+| LOLv2-Synthetic | Included in `save` |
+| LOLv2-Real | Included in `save` |
+
+Download link:
+
+- Baidu Netdisk: [save](https://pan.baidu.com/s/1AfgQQYEp0gGIxEEsVwfMCw?pwd=8686)
+- Extraction code: `8686`
+
+After downloading, please place the `save` folder under the project root directory:
+
+```text
+InterLight/
+├── assets/
+├── save/
+│   ├── lolv1/
+│   ├── lolv2_syn/
+│   └── lolv2_real/
+├── README.md
+└── ...
+
 ## :postbox: Contact
 
 If you have any questions, please feel free to reach us out at <a href="zhangx0802@whu.edu.cn">zhangx0802@whu.edu.cn</a>.
