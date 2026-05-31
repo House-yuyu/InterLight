@@ -2,7 +2,7 @@
 
 # 🔦 InterLight: Leveraging Intrinsic Illumination Priors for Low-Light Image Enhancement (IJCAI'2026)
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2605.19982)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)](https://pytorch.org/)
